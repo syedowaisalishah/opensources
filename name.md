@@ -19,5 +19,4 @@ Add Your GitHub Username and GitHub Profile Link
 - [syedbush26](https://github.com/syedbush26)
 - [whatisfahad](https://github.com/whatisfahad)
 - [Tahak6715](https://github.com/tahak6715)
-- d
 [Maazbinsohail](https://github.com/Maazbinsohail)
